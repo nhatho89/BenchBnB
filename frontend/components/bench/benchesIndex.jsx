@@ -33,6 +33,7 @@ var BenchIndex = React.createClass({
   },
 
   render: function() {
+
     return (
       <div>
         {this.benchesIndexList()}
